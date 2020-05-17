@@ -1,0 +1,19 @@
+.bold{
+    font-weight: 700;
+}
+li{
+    background-color: violet;
+    width: 120px;
+}
+.example_class_1{
+    width: 120px;
+    background-color: yellow;
+}
+body{
+    width: 99%;
+    height: 100vh;
+    background-color: teal;
+}
+ul{
+    font-weight: 400;
+}
